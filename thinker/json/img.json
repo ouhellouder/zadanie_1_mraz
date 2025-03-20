@@ -1,0 +1,35 @@
+[
+    {
+        "about":"img/about-bg.jpg",
+        "banner":"img/banner_bg.jpg"
+    },
+    {
+        "service1":"img/service_icon_01.png",
+        "service2":"img/service_icon_02.png",
+        "service3":"img/service_icon_03.png",
+        "service4":"img/service_icon_04.png"
+    },
+    {
+        "blog1":"img/blog_item_01.jpg",
+        "blog2":"img/blog_item_02.jpg",
+        "blog3":"img/blog_item_03.jpg",
+        "blog4":"img/blog_item_04.jpg"
+    },
+    {
+        
+        "portfolio1":"img/portfolio_big_item_01.jpg",
+        "portfolio2":"img/portfolio_big_item_02.jpg",
+        "portfolio3":"img/portfolio_big_item_03.jpg",
+        "portfolio4":"img/portfolio_big_item_04.jpg",
+        "portfolio5":"img/portfolio_big_item_05.jpg",
+        "portfolio6":"img/portfolio_big_item_06.jpg"
+    },
+    {
+        "portfolio1":"img/portfolio_item_01.jpg",
+        "portfolio2":"img/portfolio_item_02.jpg",
+        "portfolio3":"img/portfolio_item_03.jpg",
+        "portfolio4":"img/portfolio_item_04.jpg",
+        "portfolio5":"img/portfolio_item_05.jpg",
+        "portfolio6":"img/portfolio_item_06.jpg"
+    }
+]
